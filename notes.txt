@@ -1,1 +1,3 @@
 git is global information tracker is an open source distributed Version Control System
+github is distributed VCS.
+Github connects different team members to access same repo and make changes
